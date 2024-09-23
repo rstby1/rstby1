@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi!. I'm RSTBY</h1>
 <h2 align="center">FullStack Developer made in Argentina</h2>
-
+<!--
 <div align="center">
   <img src="https://github.com/rstby1/rstby1/assets/132413917/fa7de154-8da4-48cf-a9e2-45e867bdafa3" alt="banner" />
 </div>
