@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi!. I'm RSTBY</h1>
+<h1 align="center">👋 Hi!.</h1>
 <h2 align="center">FullStack Developer made in Argentina</h2>
 <!--
 <div align="center">
@@ -10,10 +10,10 @@ My real name is Diego. I love working and help people with thier proyects, becau
 "United in battle, with intertwined hearts and indomitable wills, we conquer the summit, not just in pursuit of victory, but for the supreme good that calls us."
 
 That phrase, represent my mindsent. Don't give up, keep trying(cuz u'll never fail). I like be helped by other user or friends. 
-<p>Lenguajes</p>
+<p>Lenguages</p>
 
-<li>Spanish</li>
-<li>English</li>
+<li>Spanish(Native)</li>
+<li>English(B2)</li>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/𝕽𝖘𝖙𝖇𝖞#0761" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="𝕽𝖘𝖙𝖇𝖞#0761" height="30" width="40" /></a>
