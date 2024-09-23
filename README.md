@@ -26,8 +26,3 @@ That phrase, represent my mindsent. Don't give up, keep trying(cuz u'll never fa
 
 
 
-
-
-<div align="center">
-  <img src="https://github.com/rstby1/rstby1/assets/132413917/44c47263-8561-48a8-982f-accb9b4dc7ae" alt="phrase" />
-</div>
