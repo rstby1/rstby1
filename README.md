@@ -6,7 +6,7 @@
 </div>-->
 
 
-My real name is Diego. I love working and help people with thier proyects, because;
+I love working and help people with thier proyects because;
 "United in battle, with intertwined hearts and indomitable wills, we conquer the summit, not just in pursuit of victory, but for the supreme good that calls us."
 
 That phrase, represent my mindsent. Don't give up, keep trying(cuz u'll never fail). I like be helped by other user or friends. 
